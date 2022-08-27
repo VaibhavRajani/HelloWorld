@@ -22,7 +22,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-https://imgur.com/sq0VcuN
+<img src="demo.gif" title='Video Walkthrough' width='' alt='Video Walkthrough'>
 
 GIF created with LiceCap
 
